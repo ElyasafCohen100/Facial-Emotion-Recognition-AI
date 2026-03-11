@@ -2,7 +2,7 @@
   <img src="1.png"/>
 </p>
 
-# 🎭 Facial Emotion Recognition AI 🤖
+# 🎭 Facial Emotion Recognition AI 🤖 
 
 ![GitHub stars](https://img.shields.io/github/stars/ElyasafCohen100/Facial-Emotion-Recognition-AI?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/ElyasafCohen100/Facial-Emotion-Recognition-AI?style=social)
